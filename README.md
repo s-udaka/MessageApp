@@ -9,3 +9,9 @@
   - [参考](https://zenn.dev/engineerhikaru/books/ecf839ce7d0591bb203b/viewer/4af891796a936c1e2a34)記事を参考にエミュレーターでホットリロードデバッグできるようにした
 ### ログイン画面構築
 - [参考](https://www.flutter-study.dev/firebase-app/authentication)記事を参考にログイン画面を表示
+
+## 起動方法
+
+### Windows(WSL)の場合
+- VSCodeで`message_app`ディレクトリをリモートで開き、`message_app (profile mode)`で起動する
+- Chrome拡張機能の`Dart Debug Extension`をクリックする
